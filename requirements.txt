@@ -1,5 +1,7 @@
 pandas
 plotly
 networkx
-pylab
 lightning-python
+numpy 
+scipy 
+matplotlib
