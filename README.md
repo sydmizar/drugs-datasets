@@ -21,7 +21,7 @@ Here are the basic steps for using our algorithm :
 python get_full_data.py
 ```
 Here are the basic steps for using the Jupyter Notebook :
-1. Click on the Jupyter notebook called Technical Validation.ipbn
-2. 
+1. Click on the Jupyter notebook called Technical Validation.ipynb
+2. You can download the notebook and run it in your computer or open it on Nbviewer http://nbviewer.ipython.org/
 
 
