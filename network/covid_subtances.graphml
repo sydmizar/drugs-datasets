@@ -1,0 +1,4660 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="A06.0">
+  <data key="d0">0</data>
+</node>
+<node id="A06.1">
+  <data key="d0">0</data>
+</node>
+<node id="A06.2">
+  <data key="d0">0</data>
+</node>
+<node id="A06.3">
+  <data key="d0">0</data>
+</node>
+<node id="A06.4">
+  <data key="d0">0</data>
+</node>
+<node id="A06.5">
+  <data key="d0">0</data>
+</node>
+<node id="A06.6">
+  <data key="d0">0</data>
+</node>
+<node id="A06.7">
+  <data key="d0">0</data>
+</node>
+<node id="A06.8">
+  <data key="d0">0</data>
+</node>
+<node id="A06.9">
+  <data key="d0">0</data>
+</node>
+<node id="A60">
+  <data key="d0">0</data>
+</node>
+<node id="A60.0">
+  <data key="d0">0</data>
+</node>
+<node id="A60.1">
+  <data key="d0">0</data>
+</node>
+<node id="A60.9">
+  <data key="d0">0</data>
+</node>
+<node id="A80">
+  <data key="d0">0</data>
+</node>
+<node id="A81">
+  <data key="d0">0</data>
+</node>
+<node id="A81.1">
+  <data key="d0">0</data>
+</node>
+<node id="A81.2">
+  <data key="d0">0</data>
+</node>
+<node id="A81.9">
+  <data key="d0">0</data>
+</node>
+<node id="A82">
+  <data key="d0">0</data>
+</node>
+<node id="A83">
+  <data key="d0">0</data>
+</node>
+<node id="A84">
+  <data key="d0">0</data>
+</node>
+<node id="A85">
+  <data key="d0">0</data>
+</node>
+<node id="A86">
+  <data key="d0">0</data>
+</node>
+<node id="A87">
+  <data key="d0">0</data>
+</node>
+<node id="A88">
+  <data key="d0">0</data>
+</node>
+<node id="A89">
+  <data key="d0">0</data>
+</node>
+<node id="A90">
+  <data key="d0">0</data>
+</node>
+<node id="A91">
+  <data key="d0">0</data>
+</node>
+<node id="A92">
+  <data key="d0">0</data>
+</node>
+<node id="A93">
+  <data key="d0">0</data>
+</node>
+<node id="A94">
+  <data key="d0">0</data>
+</node>
+<node id="A95">
+  <data key="d0">0</data>
+</node>
+<node id="A96">
+  <data key="d0">0</data>
+</node>
+<node id="A97">
+  <data key="d0">0</data>
+</node>
+<node id="A98">
+  <data key="d0">0</data>
+</node>
+<node id="A99">
+  <data key="d0">0</data>
+</node>
+<node id="B00">
+  <data key="d0">0</data>
+</node>
+<node id="B00.0">
+  <data key="d0">0</data>
+</node>
+<node id="B00.1">
+  <data key="d0">0</data>
+</node>
+<node id="B00.2">
+  <data key="d0">0</data>
+</node>
+<node id="B00.3">
+  <data key="d0">0</data>
+</node>
+<node id="B00.4">
+  <data key="d0">0</data>
+</node>
+<node id="B00.5">
+  <data key="d0">0</data>
+</node>
+<node id="B00.7">
+  <data key="d0">0</data>
+</node>
+<node id="B00.8">
+  <data key="d0">0</data>
+</node>
+<node id="B00.9">
+  <data key="d0">0</data>
+</node>
+<node id="B01">
+  <data key="d0">0</data>
+</node>
+<node id="B01.0">
+  <data key="d0">0</data>
+</node>
+<node id="B01.1">
+  <data key="d0">0</data>
+</node>
+<node id="B01.2">
+  <data key="d0">0</data>
+</node>
+<node id="B01.8">
+  <data key="d0">0</data>
+</node>
+<node id="B01.9">
+  <data key="d0">0</data>
+</node>
+<node id="B02">
+  <data key="d0">0</data>
+</node>
+<node id="B02.0">
+  <data key="d0">0</data>
+</node>
+<node id="B02.1">
+  <data key="d0">0</data>
+</node>
+<node id="B02.2">
+  <data key="d0">0</data>
+</node>
+<node id="B02.3">
+  <data key="d0">0</data>
+</node>
+<node id="B02.7">
+  <data key="d0">0</data>
+</node>
+<node id="B02.8">
+  <data key="d0">0</data>
+</node>
+<node id="B02.9">
+  <data key="d0">0</data>
+</node>
+<node id="B03">
+  <data key="d0">0</data>
+</node>
+<node id="B04">
+  <data key="d0">0</data>
+</node>
+<node id="B05">
+  <data key="d0">0</data>
+</node>
+<node id="B06">
+  <data key="d0">0</data>
+</node>
+<node id="B07">
+  <data key="d0">0</data>
+</node>
+<node id="B08">
+  <data key="d0">0</data>
+</node>
+<node id="B08.1">
+  <data key="d0">0</data>
+</node>
+<node id="B08.2">
+  <data key="d0">0</data>
+</node>
+<node id="B09">
+  <data key="d0">0</data>
+</node>
+<node id="B15">
+  <data key="d0">0</data>
+</node>
+<node id="B15.0">
+  <data key="d0">0</data>
+</node>
+<node id="B15.9">
+  <data key="d0">0</data>
+</node>
+<node id="B16">
+  <data key="d0">0</data>
+</node>
+<node id="B16.0">
+  <data key="d0">0</data>
+</node>
+<node id="B16.1">
+  <data key="d0">0</data>
+</node>
+<node id="B16.2">
+  <data key="d0">0</data>
+</node>
+<node id="B16.9">
+  <data key="d0">0</data>
+</node>
+<node id="B17">
+  <data key="d0">0</data>
+</node>
+<node id="B17.0">
+  <data key="d0">0</data>
+</node>
+<node id="B17.1">
+  <data key="d0">0</data>
+</node>
+<node id="B17.2">
+  <data key="d0">0</data>
+</node>
+<node id="B17.8">
+  <data key="d0">0</data>
+</node>
+<node id="B17.9">
+  <data key="d0">0</data>
+</node>
+<node id="B18">
+  <data key="d0">0</data>
+</node>
+<node id="B18.0">
+  <data key="d0">0</data>
+</node>
+<node id="B18.1">
+  <data key="d0">0</data>
+</node>
+<node id="B18.2">
+  <data key="d0">0</data>
+</node>
+<node id="B18.8">
+  <data key="d0">0</data>
+</node>
+<node id="B18.9">
+  <data key="d0">0</data>
+</node>
+<node id="B19">
+  <data key="d0">0</data>
+</node>
+<node id="B19.0">
+  <data key="d0">0</data>
+</node>
+<node id="B19.9">
+  <data key="d0">0</data>
+</node>
+<node id="B20">
+  <data key="d0">0</data>
+</node>
+<node id="B20.0">
+  <data key="d0">0</data>
+</node>
+<node id="B20.1">
+  <data key="d0">0</data>
+</node>
+<node id="B20.2">
+  <data key="d0">0</data>
+</node>
+<node id="B20.3">
+  <data key="d0">0</data>
+</node>
+<node id="B20.4">
+  <data key="d0">0</data>
+</node>
+<node id="B20.5">
+  <data key="d0">0</data>
+</node>
+<node id="B20.6">
+  <data key="d0">0</data>
+</node>
+<node id="B20.7">
+  <data key="d0">0</data>
+</node>
+<node id="B20.8">
+  <data key="d0">0</data>
+</node>
+<node id="B20.9">
+  <data key="d0">0</data>
+</node>
+<node id="B21">
+  <data key="d0">0</data>
+</node>
+<node id="B21.0">
+  <data key="d0">0</data>
+</node>
+<node id="B21.1">
+  <data key="d0">0</data>
+</node>
+<node id="B21.2">
+  <data key="d0">0</data>
+</node>
+<node id="B21.3">
+  <data key="d0">0</data>
+</node>
+<node id="B21.7">
+  <data key="d0">0</data>
+</node>
+<node id="B21.8">
+  <data key="d0">0</data>
+</node>
+<node id="B21.9">
+  <data key="d0">0</data>
+</node>
+<node id="B22">
+  <data key="d0">0</data>
+</node>
+<node id="B22.0">
+  <data key="d0">0</data>
+</node>
+<node id="B22.1">
+  <data key="d0">0</data>
+</node>
+<node id="B22.2">
+  <data key="d0">0</data>
+</node>
+<node id="B22.7">
+  <data key="d0">0</data>
+</node>
+<node id="B23">
+  <data key="d0">0</data>
+</node>
+<node id="B23.0">
+  <data key="d0">0</data>
+</node>
+<node id="B23.1">
+  <data key="d0">0</data>
+</node>
+<node id="B23.2">
+  <data key="d0">0</data>
+</node>
+<node id="B23.8">
+  <data key="d0">0</data>
+</node>
+<node id="B24">
+  <data key="d0">0</data>
+</node>
+<node id="B24.+0">
+  <data key="d0">0</data>
+</node>
+<node id="B24.+1">
+  <data key="d0">0</data>
+</node>
+<node id="B24.+9">
+  <data key="d0">0</data>
+</node>
+<node id="B25">
+  <data key="d0">0</data>
+</node>
+<node id="B25.1">
+  <data key="d0">0</data>
+</node>
+<node id="B25.9">
+  <data key="d0">0</data>
+</node>
+<node id="B26">
+  <data key="d0">0</data>
+</node>
+<node id="B27">
+  <data key="d0">0</data>
+</node>
+<node id="B27.0">
+  <data key="d0">0</data>
+</node>
+<node id="B27.1">
+  <data key="d0">0</data>
+</node>
+<node id="B27.8">
+  <data key="d0">0</data>
+</node>
+<node id="B27.9">
+  <data key="d0">0</data>
+</node>
+<node id="B30">
+  <data key="d0">0</data>
+</node>
+<node id="B30.9">
+  <data key="d0">0</data>
+</node>
+<node id="B33">
+  <data key="d0">0</data>
+</node>
+<node id="B33.8">
+  <data key="d0">0</data>
+</node>
+<node id="B34">
+  <data key="d0">0</data>
+</node>
+<node id="B34.8">
+  <data key="d0">0</data>
+</node>
+<node id="B34.9">
+  <data key="d0">0</data>
+</node>
+<node id="B50.0">
+  <data key="d0">0</data>
+</node>
+<node id="B50.8">
+  <data key="d0">0</data>
+</node>
+<node id="B50.9">
+  <data key="d0">0</data>
+</node>
+<node id="B51.0">
+  <data key="d0">0</data>
+</node>
+<node id="B51.8">
+  <data key="d0">0</data>
+</node>
+<node id="B51.9">
+  <data key="d0">0</data>
+</node>
+<node id="B52.0">
+  <data key="d0">0</data>
+</node>
+<node id="B52.8">
+  <data key="d0">0</data>
+</node>
+<node id="B52.9">
+  <data key="d0">0</data>
+</node>
+<node id="B53.0">
+  <data key="d0">0</data>
+</node>
+<node id="B53.1">
+  <data key="d0">0</data>
+</node>
+<node id="B53.8">
+  <data key="d0">0</data>
+</node>
+<node id="B54">
+  <data key="d0">0</data>
+</node>
+<node id="B55.0">
+  <data key="d0">0</data>
+</node>
+<node id="B55.1">
+  <data key="d0">0</data>
+</node>
+<node id="B55.2">
+  <data key="d0">0</data>
+</node>
+<node id="B55.9">
+  <data key="d0">0</data>
+</node>
+<node id="B56.0">
+  <data key="d0">0</data>
+</node>
+<node id="B56.1">
+  <data key="d0">0</data>
+</node>
+<node id="B56.9">
+  <data key="d0">0</data>
+</node>
+<node id="B57.0">
+  <data key="d0">0</data>
+</node>
+<node id="B57.1">
+  <data key="d0">0</data>
+</node>
+<node id="B57.2">
+  <data key="d0">0</data>
+</node>
+<node id="B57.3">
+  <data key="d0">0</data>
+</node>
+<node id="B57.4">
+  <data key="d0">0</data>
+</node>
+<node id="B57.5">
+  <data key="d0">0</data>
+</node>
+<node id="B58.1">
+  <data key="d0">0</data>
+</node>
+<node id="B60.8">
+  <data key="d0">0</data>
+</node>
+<node id="B60.80">
+  <data key="d0">0</data>
+</node>
+<node id="B60.88">
+  <data key="d0">0</data>
+</node>
+<node id="B65.0">
+  <data key="d0">0</data>
+</node>
+<node id="B65.1">
+  <data key="d0">0</data>
+</node>
+<node id="B65.2">
+  <data key="d0">0</data>
+</node>
+<node id="B65.3">
+  <data key="d0">0</data>
+</node>
+<node id="B65.8">
+  <data key="d0">0</data>
+</node>
+<node id="B65.9">
+  <data key="d0">0</data>
+</node>
+<node id="B67.0">
+  <data key="d0">0</data>
+</node>
+<node id="B67.1">
+  <data key="d0">0</data>
+</node>
+<node id="B67.2">
+  <data key="d0">0</data>
+</node>
+<node id="B67.3">
+  <data key="d0">0</data>
+</node>
+<node id="B67.4">
+  <data key="d0">0</data>
+</node>
+<node id="B67.5">
+  <data key="d0">0</data>
+</node>
+<node id="B67.6">
+  <data key="d0">0</data>
+</node>
+<node id="B67.7">
+  <data key="d0">0</data>
+</node>
+<node id="B67.8">
+  <data key="d0">0</data>
+</node>
+<node id="B67.9">
+  <data key="d0">0</data>
+</node>
+<node id="B69.0">
+  <data key="d0">0</data>
+</node>
+<node id="B69.1">
+  <data key="d0">0</data>
+</node>
+<node id="B69.8">
+  <data key="d0">0</data>
+</node>
+<node id="B69.9">
+  <data key="d0">0</data>
+</node>
+<node id="B70.0">
+  <data key="d0">0</data>
+</node>
+<node id="B70.1">
+  <data key="d0">0</data>
+</node>
+<node id="B71.0">
+  <data key="d0">0</data>
+</node>
+<node id="B71.1">
+  <data key="d0">0</data>
+</node>
+<node id="B71.8">
+  <data key="d0">0</data>
+</node>
+<node id="B71.9">
+  <data key="d0">0</data>
+</node>
+<node id="B72">
+  <data key="d0">0</data>
+</node>
+<node id="B73">
+  <data key="d0">0</data>
+</node>
+<node id="B74.0">
+  <data key="d0">0</data>
+</node>
+<node id="B74.1">
+  <data key="d0">0</data>
+</node>
+<node id="B74.2">
+  <data key="d0">0</data>
+</node>
+<node id="B74.3">
+  <data key="d0">0</data>
+</node>
+<node id="B74.4">
+  <data key="d0">0</data>
+</node>
+<node id="B74.8">
+  <data key="d0">0</data>
+</node>
+<node id="B74.9">
+  <data key="d0">0</data>
+</node>
+<node id="B75">
+  <data key="d0">0</data>
+</node>
+<node id="B76.0">
+  <data key="d0">0</data>
+</node>
+<node id="B76.1">
+  <data key="d0">0</data>
+</node>
+<node id="B76.8">
+  <data key="d0">0</data>
+</node>
+<node id="B76.9">
+  <data key="d0">0</data>
+</node>
+<node id="B78.0">
+  <data key="d0">0</data>
+</node>
+<node id="B78.1">
+  <data key="d0">0</data>
+</node>
+<node id="B78.7">
+  <data key="d0">0</data>
+</node>
+<node id="B78.9">
+  <data key="d0">0</data>
+</node>
+<node id="B80">
+  <data key="d0">0</data>
+</node>
+<node id="B82.9">
+  <data key="d0">0</data>
+</node>
+<node id="B83.0">
+  <data key="d0">0</data>
+</node>
+<node id="B83.1">
+  <data key="d0">0</data>
+</node>
+<node id="B83.9">
+  <data key="d0">0</data>
+</node>
+<node id="B85.0">
+  <data key="d0">0</data>
+</node>
+<node id="B85.1">
+  <data key="d0">0</data>
+</node>
+<node id="B85.2">
+  <data key="d0">0</data>
+</node>
+<node id="B85.3">
+  <data key="d0">0</data>
+</node>
+<node id="B85.4">
+  <data key="d0">0</data>
+</node>
+<node id="B86">
+  <data key="d0">0</data>
+</node>
+<node id="B87.0">
+  <data key="d0">0</data>
+</node>
+<node id="B87.1">
+  <data key="d0">0</data>
+</node>
+<node id="B87.2">
+  <data key="d0">0</data>
+</node>
+<node id="B87.3">
+  <data key="d0">0</data>
+</node>
+<node id="B87.4">
+  <data key="d0">0</data>
+</node>
+<node id="B87.8">
+  <data key="d0">0</data>
+</node>
+<node id="B87.9">
+  <data key="d0">0</data>
+</node>
+<node id="B88.0">
+  <data key="d0">0</data>
+</node>
+<node id="B88.1">
+  <data key="d0">0</data>
+</node>
+<node id="B88.2">
+  <data key="d0">0</data>
+</node>
+<node id="B88.3">
+  <data key="d0">0</data>
+</node>
+<node id="B88.8">
+  <data key="d0">0</data>
+</node>
+<node id="B88.9">
+  <data key="d0">0</data>
+</node>
+<node id="B89">
+  <data key="d0">0</data>
+</node>
+<node id="B97">
+  <data key="d0">0</data>
+</node>
+<node id="B97.0">
+  <data key="d0">0</data>
+</node>
+<node id="B97.1">
+  <data key="d0">0</data>
+</node>
+<node id="B97.4">
+  <data key="d0">0</data>
+</node>
+<node id="B97.7">
+  <data key="d0">0</data>
+</node>
+<node id="B97.8">
+  <data key="d0">0</data>
+</node>
+<node id="B99">
+  <data key="d0">0</data>
+</node>
+<node id="B99.+0">
+  <data key="d0">0</data>
+</node>
+<node id="B99.+1">
+  <data key="d0">0</data>
+</node>
+<node id="C46.7">
+  <data key="d0">0</data>
+</node>
+<node id="C46.70">
+  <data key="d0">0</data>
+</node>
+<node id="C46.71">
+  <data key="d0">0</data>
+</node>
+<node id="C46.72">
+  <data key="d0">0</data>
+</node>
+<node id="C46.78">
+  <data key="d0">0</data>
+</node>
+<node id="C46.9">
+  <data key="d0">0</data>
+</node>
+<node id="D63.8">
+  <data key="d0">0</data>
+</node>
+<node id="D68.8">
+  <data key="d0">0</data>
+</node>
+<node id="D77">
+  <data key="d0">0</data>
+</node>
+<node id="F02.4">
+  <data key="d0">0</data>
+</node>
+<node id="F02.40">
+  <data key="d0">0</data>
+</node>
+<node id="F02.400">
+  <data key="d0">0</data>
+</node>
+<node id="F02.41">
+  <data key="d0">0</data>
+</node>
+<node id="F02.410">
+  <data key="d0">0</data>
+</node>
+<node id="F02.42">
+  <data key="d0">0</data>
+</node>
+<node id="F02.420">
+  <data key="d0">0</data>
+</node>
+<node id="F02.43">
+  <data key="d0">0</data>
+</node>
+<node id="F02.430">
+  <data key="d0">0</data>
+</node>
+<node id="F02.44">
+  <data key="d0">0</data>
+</node>
+<node id="F02.440">
+  <data key="d0">0</data>
+</node>
+<node id="F02.8">
+  <data key="d0">0</data>
+</node>
+<node id="G02.0">
+  <data key="d0">0</data>
+</node>
+<node id="G05.1">
+  <data key="d0">0</data>
+</node>
+<node id="G05.8">
+  <data key="d0">0</data>
+</node>
+<node id="G63.0">
+  <data key="d0">0</data>
+</node>
+<node id="G63.5">
+  <data key="d0">0</data>
+</node>
+<node id="G73.7">
+  <data key="d0">0</data>
+</node>
+<node id="G94.8">
+  <data key="d0">0</data>
+</node>
+<node id="H03.1">
+  <data key="d0">0</data>
+</node>
+<node id="H13.1">
+  <data key="d0">0</data>
+</node>
+<node id="H19.1">
+  <data key="d0">0</data>
+</node>
+<node id="H19.2">
+  <data key="d0">0</data>
+</node>
+<node id="H22.0">
+  <data key="d0">0</data>
+</node>
+<node id="H32.00">
+  <data key="d0">0</data>
+</node>
+<node id="H32.01">
+  <data key="d0">0</data>
+</node>
+<node id="H32.08">
+  <data key="d0">0</data>
+</node>
+<node id="H58.8">
+  <data key="d0">0</data>
+</node>
+<node id="H62.1">
+  <data key="d0">0</data>
+</node>
+<node id="H67.1">
+  <data key="d0">0</data>
+</node>
+<node id="I32.1">
+  <data key="d0">0</data>
+</node>
+<node id="I32.8">
+  <data key="d0">0</data>
+</node>
+<node id="I39.0">
+  <data key="d0">0</data>
+</node>
+<node id="I39.1">
+  <data key="d0">0</data>
+</node>
+<node id="I39.2">
+  <data key="d0">0</data>
+</node>
+<node id="I39.3">
+  <data key="d0">0</data>
+</node>
+<node id="I41.1">
+  <data key="d0">0</data>
+</node>
+<node id="I52.8">
+  <data key="d0">0</data>
+</node>
+<node id="I68.2">
+  <data key="d0">0</data>
+</node>
+<node id="J17.1">
+  <data key="d0">0</data>
+</node>
+<node id="J17.8">
+  <data key="d0">0</data>
+</node>
+<node id="J99.1">
+  <data key="d0">0</data>
+</node>
+<node id="K23.80">
+  <data key="d0">0</data>
+</node>
+<node id="K23.81">
+  <data key="d0">0</data>
+</node>
+<node id="K23.88">
+  <data key="d0">0</data>
+</node>
+<node id="K77.0">
+  <data key="d0">0</data>
+</node>
+<node id="K77.8">
+  <data key="d0">0</data>
+</node>
+<node id="K87.00">
+  <data key="d0">0</data>
+</node>
+<node id="K87.08">
+  <data key="d0">0</data>
+</node>
+<node id="K87.1">
+  <data key="d0">0</data>
+</node>
+<node id="K93.8">
+  <data key="d0">0</data>
+</node>
+<node id="K93.80">
+  <data key="d0">0</data>
+</node>
+<node id="K93.81">
+  <data key="d0">0</data>
+</node>
+<node id="K93.82">
+  <data key="d0">0</data>
+</node>
+<node id="K93.820">
+  <data key="d0">0</data>
+</node>
+<node id="K93.828">
+  <data key="d0">0</data>
+</node>
+<node id="K93.83">
+  <data key="d0">0</data>
+</node>
+<node id="K93.830">
+  <data key="d0">0</data>
+</node>
+<node id="K93.838">
+  <data key="d0">0</data>
+</node>
+<node id="K93.84">
+  <data key="d0">0</data>
+</node>
+<node id="K93.840">
+  <data key="d0">0</data>
+</node>
+<node id="K93.848">
+  <data key="d0">0</data>
+</node>
+<node id="K93.88">
+  <data key="d0">0</data>
+</node>
+<node id="L56.0">
+  <data key="d0">0</data>
+</node>
+<node id="L56.2">
+  <data key="d0">0</data>
+</node>
+<node id="L56.3">
+  <data key="d0">0</data>
+</node>
+<node id="L56.4">
+  <data key="d0">0</data>
+</node>
+<node id="L56.8">
+  <data key="d0">0</data>
+</node>
+<node id="L56.9">
+  <data key="d0">0</data>
+</node>
+<node id="L93.0">
+  <data key="d0">0</data>
+</node>
+<node id="L93.1">
+  <data key="d0">0</data>
+</node>
+<node id="L93.2">
+  <data key="d0">0</data>
+</node>
+<node id="M01.4">
+  <data key="d0">0</data>
+</node>
+<node id="M01.5">
+  <data key="d0">0</data>
+</node>
+<node id="M05.0">
+  <data key="d0">0</data>
+</node>
+<node id="M05.00">
+  <data key="d0">0</data>
+</node>
+<node id="M05.01">
+  <data key="d0">0</data>
+</node>
+<node id="M05.02">
+  <data key="d0">0</data>
+</node>
+<node id="M05.03">
+  <data key="d0">0</data>
+</node>
+<node id="M05.04">
+  <data key="d0">0</data>
+</node>
+<node id="M05.05">
+  <data key="d0">0</data>
+</node>
+<node id="M05.06">
+  <data key="d0">0</data>
+</node>
+<node id="M05.07">
+  <data key="d0">0</data>
+</node>
+<node id="M05.08">
+  <data key="d0">0</data>
+</node>
+<node id="M05.09">
+  <data key="d0">0</data>
+</node>
+<node id="M05.10">
+  <data key="d0">0</data>
+</node>
+<node id="M05.11">
+  <data key="d0">0</data>
+</node>
+<node id="M05.12">
+  <data key="d0">0</data>
+</node>
+<node id="M05.13">
+  <data key="d0">0</data>
+</node>
+<node id="M05.14">
+  <data key="d0">0</data>
+</node>
+<node id="M05.15">
+  <data key="d0">0</data>
+</node>
+<node id="M05.16">
+  <data key="d0">0</data>
+</node>
+<node id="M05.17">
+  <data key="d0">0</data>
+</node>
+<node id="M05.18">
+  <data key="d0">0</data>
+</node>
+<node id="M05.19">
+  <data key="d0">0</data>
+</node>
+<node id="M05.2">
+  <data key="d0">0</data>
+</node>
+<node id="M05.20">
+  <data key="d0">0</data>
+</node>
+<node id="M05.21">
+  <data key="d0">0</data>
+</node>
+<node id="M05.22">
+  <data key="d0">0</data>
+</node>
+<node id="M05.23">
+  <data key="d0">0</data>
+</node>
+<node id="M05.24">
+  <data key="d0">0</data>
+</node>
+<node id="M05.25">
+  <data key="d0">0</data>
+</node>
+<node id="M05.26">
+  <data key="d0">0</data>
+</node>
+<node id="M05.27">
+  <data key="d0">0</data>
+</node>
+<node id="M05.28">
+  <data key="d0">0</data>
+</node>
+<node id="M05.29">
+  <data key="d0">0</data>
+</node>
+<node id="M05.30">
+  <data key="d0">0</data>
+</node>
+<node id="M05.31">
+  <data key="d0">0</data>
+</node>
+<node id="M05.32">
+  <data key="d0">0</data>
+</node>
+<node id="M05.33">
+  <data key="d0">0</data>
+</node>
+<node id="M05.34">
+  <data key="d0">0</data>
+</node>
+<node id="M05.35">
+  <data key="d0">0</data>
+</node>
+<node id="M05.36">
+  <data key="d0">0</data>
+</node>
+<node id="M05.37">
+  <data key="d0">0</data>
+</node>
+<node id="M05.38">
+  <data key="d0">0</data>
+</node>
+<node id="M05.39">
+  <data key="d0">0</data>
+</node>
+<node id="M05.8">
+  <data key="d0">0</data>
+</node>
+<node id="M05.80">
+  <data key="d0">0</data>
+</node>
+<node id="M05.81">
+  <data key="d0">0</data>
+</node>
+<node id="M05.82">
+  <data key="d0">0</data>
+</node>
+<node id="M05.83">
+  <data key="d0">0</data>
+</node>
+<node id="M05.84">
+  <data key="d0">0</data>
+</node>
+<node id="M05.85">
+  <data key="d0">0</data>
+</node>
+<node id="M05.86">
+  <data key="d0">0</data>
+</node>
+<node id="M05.87">
+  <data key="d0">0</data>
+</node>
+<node id="M05.88">
+  <data key="d0">0</data>
+</node>
+<node id="M05.89">
+  <data key="d0">0</data>
+</node>
+<node id="M05.9">
+  <data key="d0">0</data>
+</node>
+<node id="M05.90">
+  <data key="d0">0</data>
+</node>
+<node id="M05.91">
+  <data key="d0">0</data>
+</node>
+<node id="M05.92">
+  <data key="d0">0</data>
+</node>
+<node id="M05.93">
+  <data key="d0">0</data>
+</node>
+<node id="M05.94">
+  <data key="d0">0</data>
+</node>
+<node id="M05.95">
+  <data key="d0">0</data>
+</node>
+<node id="M05.96">
+  <data key="d0">0</data>
+</node>
+<node id="M05.97">
+  <data key="d0">0</data>
+</node>
+<node id="M05.98">
+  <data key="d0">0</data>
+</node>
+<node id="M05.99">
+  <data key="d0">0</data>
+</node>
+<node id="M06">
+  <data key="d0">0</data>
+</node>
+<node id="M06.0">
+  <data key="d0">0</data>
+</node>
+<node id="M06.00">
+  <data key="d0">0</data>
+</node>
+<node id="M06.01">
+  <data key="d0">0</data>
+</node>
+<node id="M06.02">
+  <data key="d0">0</data>
+</node>
+<node id="M06.03">
+  <data key="d0">0</data>
+</node>
+<node id="M06.04">
+  <data key="d0">0</data>
+</node>
+<node id="M06.05">
+  <data key="d0">0</data>
+</node>
+<node id="M06.06">
+  <data key="d0">0</data>
+</node>
+<node id="M06.07">
+  <data key="d0">0</data>
+</node>
+<node id="M06.08">
+  <data key="d0">0</data>
+</node>
+<node id="M06.09">
+  <data key="d0">0</data>
+</node>
+<node id="M06.9">
+  <data key="d0">0</data>
+</node>
+<node id="M06.90">
+  <data key="d0">0</data>
+</node>
+<node id="M06.91">
+  <data key="d0">0</data>
+</node>
+<node id="M06.92">
+  <data key="d0">0</data>
+</node>
+<node id="M06.93">
+  <data key="d0">0</data>
+</node>
+<node id="M06.94">
+  <data key="d0">0</data>
+</node>
+<node id="M06.95">
+  <data key="d0">0</data>
+</node>
+<node id="M06.96">
+  <data key="d0">0</data>
+</node>
+<node id="M06.97">
+  <data key="d0">0</data>
+</node>
+<node id="M06.98">
+  <data key="d0">0</data>
+</node>
+<node id="M06.99">
+  <data key="d0">0</data>
+</node>
+<node id="M08.0">
+  <data key="d0">0</data>
+</node>
+<node id="M08.00">
+  <data key="d0">0</data>
+</node>
+<node id="M08.01">
+  <data key="d0">0</data>
+</node>
+<node id="M08.02">
+  <data key="d0">0</data>
+</node>
+<node id="M08.03">
+  <data key="d0">0</data>
+</node>
+<node id="M08.04">
+  <data key="d0">0</data>
+</node>
+<node id="M08.05">
+  <data key="d0">0</data>
+</node>
+<node id="M08.06">
+  <data key="d0">0</data>
+</node>
+<node id="M08.07">
+  <data key="d0">0</data>
+</node>
+<node id="M08.08">
+  <data key="d0">0</data>
+</node>
+<node id="M08.09">
+  <data key="d0">0</data>
+</node>
+<node id="M32.0">
+  <data key="d0">0</data>
+</node>
+<node id="M32.1">
+  <data key="d0">0</data>
+</node>
+<node id="M32.8">
+  <data key="d0">0</data>
+</node>
+<node id="M32.9">
+  <data key="d0">0</data>
+</node>
+<node id="N08.0">
+  <data key="d0">0</data>
+</node>
+<node id="N08.5">
+  <data key="d0">0</data>
+</node>
+<node id="N16.4">
+  <data key="d0">0</data>
+</node>
+<node id="N51.0">
+  <data key="d0">0</data>
+</node>
+<node id="N51.1">
+  <data key="d0">0</data>
+</node>
+<node id="N51.2">
+  <data key="d0">0</data>
+</node>
+<node id="N51.8">
+  <data key="d0">0</data>
+</node>
+<node id="N77.0">
+  <data key="d0">0</data>
+</node>
+<node id="N77.1">
+  <data key="d0">0</data>
+</node>
+<node id="N77.8">
+  <data key="d0">0</data>
+</node>
+<node id="O26.4">
+  <data key="d0">0</data>
+</node>
+<node id="O98.4">
+  <data key="d0">0</data>
+</node>
+<node id="O98.6">
+  <data key="d0">0</data>
+</node>
+<node id="O98.9">
+  <data key="d0">0</data>
+</node>
+<node id="P35">
+  <data key="d0">0</data>
+</node>
+<node id="R74.0">
+  <data key="d0">0</data>
+</node>
+<node id="R75">
+  <data key="d0">0</data>
+</node>
+<node id="Z03.8">
+  <data key="d0">0</data>
+</node>
+<node id="Z03.9">
+  <data key="d0">0</data>
+</node>
+<node id="Z09.8">
+  <data key="d0">0</data>
+</node>
+<node id="Z09.9">
+  <data key="d0">0</data>
+</node>
+<node id="Z11.6">
+  <data key="d0">0</data>
+</node>
+<node id="Z11.9">
+  <data key="d0">0</data>
+</node>
+<node id="Z21">
+  <data key="d0">0</data>
+</node>
+<node id="Z22.1">
+  <data key="d0">0</data>
+</node>
+<node id="Z22.9">
+  <data key="d0">0</data>
+</node>
+<node id="Z23.0">
+  <data key="d0">0</data>
+</node>
+<node id="Z23.1">
+  <data key="d0">0</data>
+</node>
+<node id="Z23.3">
+  <data key="d0">0</data>
+</node>
+<node id="Z23.5">
+  <data key="d0">0</data>
+</node>
+<node id="Z23.6">
+  <data key="d0">0</data>
+</node>
+<node id="Z23.8">
+  <data key="d0">0</data>
+</node>
+<node id="Z24.0">
+  <data key="d0">0</data>
+</node>
+<node id="Z24.1">
+  <data key="d0">0</data>
+</node>
+<node id="Z24.3">
+  <data key="d0">0</data>
+</node>
+<node id="Z24.6">
+  <data key="d0">0</data>
+</node>
+<node id="Z25">
+  <data key="d0">0</data>
+</node>
+<node id="Z25.0">
+  <data key="d0">0</data>
+</node>
+<node id="Z25.1">
+  <data key="d0">0</data>
+</node>
+<node id="Z25.8">
+  <data key="d0">0</data>
+</node>
+<node id="Z26">
+  <data key="d0">0</data>
+</node>
+<node id="Z26.0">
+  <data key="d0">0</data>
+</node>
+<node id="Z26.8">
+  <data key="d0">0</data>
+</node>
+<node id="Z26.9">
+  <data key="d0">0</data>
+</node>
+<node id="Z27.0">
+  <data key="d0">0</data>
+</node>
+<node id="Z27.1">
+  <data key="d0">0</data>
+</node>
+<node id="Z27.2">
+  <data key="d0">0</data>
+</node>
+<node id="Z27.3">
+  <data key="d0">0</data>
+</node>
+<node id="Z27.8">
+  <data key="d0">0</data>
+</node>
+<node id="Z27.9">
+  <data key="d0">0</data>
+</node>
+<node id="Z28.0">
+  <data key="d0">0</data>
+</node>
+<node id="Z28.1">
+  <data key="d0">0</data>
+</node>
+<node id="Z28.2">
+  <data key="d0">0</data>
+</node>
+<node id="Z28.8">
+  <data key="d0">0</data>
+</node>
+<node id="Z28.9">
+  <data key="d0">0</data>
+</node>
+<node id="Z29.2">
+  <data key="d0">0</data>
+</node>
+<node id="Z29.8">
+  <data key="d0">0</data>
+</node>
+<node id="Z29.9">
+  <data key="d0">0</data>
+</node>
+<node id="Z51.8">
+  <data key="d0">0</data>
+</node>
+<node id="Z51.9">
+  <data key="d0">0</data>
+</node>
+<node id="Z71.7">
+  <data key="d0">0</data>
+</node>
+<node id="Z71.9">
+  <data key="d0">0</data>
+</node>
+<node id="Z83.0">
+  <data key="d0">0</data>
+</node>
+<node id="P01BA01">
+  <data key="d0">1</data>
+</node>
+<node id="J05AE03">
+  <data key="d0">1</data>
+</node>
+<node id="J05AP53">
+  <data key="d0">1</data>
+</node>
+<node id="J05AR10">
+  <data key="d0">1</data>
+</node>
+<node id="P01BB51">
+  <data key="d0">1</data>
+</node>
+<node id="L04AC14">
+  <data key="d0">1</data>
+</node>
+<edge source="A06.0" target="P01BA01">
+  <data key="d1">2</data>
+</edge>
+<edge source="A06.1" target="P01BA01">
+  <data key="d1">2</data>
+</edge>
+<edge source="A06.2" target="P01BA01">
+  <data key="d1">2</data>
+</edge>
+<edge source="A06.3" target="P01BA01">
+  <data key="d1">2</data>
+</edge>
+<edge source="A06.4" target="P01BA01">
+  <data key="d1">2</data>
+</edge>
+<edge source="A06.5" target="P01BA01">
+  <data key="d1">2</data>
+</edge>
+<edge source="A06.6" target="P01BA01">
+  <data key="d1">2</data>
+</edge>
+<edge source="A06.7" target="P01BA01">
+  <data key="d1">2</data>
+</edge>
+<edge source="A06.8" target="P01BA01">
+  <data key="d1">2</data>
+</edge>
+<edge source="A06.9" target="P01BA01">
+  <data key="d1">2</data>
+</edge>
+<edge source="A60" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A60" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A60" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A60.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A60.0" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A60.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A60.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A60.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A60.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A60.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A60.9" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A60.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A80" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A80" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A80" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A81" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A81" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A81" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A81.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A81.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A81.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A81.2" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A81.2" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A81.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A81.9" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A81.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A82" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A82" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A82" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A83" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A83" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A83" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A84" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A84" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A84" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A85" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A85" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A85" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A86" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A86" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A86" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A87" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A87" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A87" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A88" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A88" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A88" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A89" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A89" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A89" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A90" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A90" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A90" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A91" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A91" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A91" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A92" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A92" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A92" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A93" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A93" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A93" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A94" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A94" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A94" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A95" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A95" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A95" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A96" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A96" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A96" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A97" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A97" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A97" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A98" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A98" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A98" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="A99" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="A99" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="A99" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B00" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.0" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B00.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B00.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.2" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.2" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B00.2" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.3" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.3" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B00.3" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.4" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.4" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B00.4" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.5" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.5" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B00.5" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.7" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.7" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B00.7" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.8" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B00.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B00.9" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B00.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B01" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B01" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B01" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B01.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B01.0" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B01.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B01.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B01.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B01.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B01.2" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B01.2" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B01.2" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B01.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B01.8" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B01.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B01.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B01.9" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B01.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B02" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B02" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B02" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B02.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B02.0" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B02.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B02.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B02.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B02.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B02.2" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B02.2" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B02.2" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B02.3" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B02.3" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B02.3" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B02.7" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B02.7" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B02.7" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B02.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B02.8" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B02.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B02.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B02.9" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B02.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B03" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B03" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B03" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B04" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B04" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B04" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B05" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B05" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B05" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B06" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B06" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B06" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B07" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B07" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B07" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B08" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B08" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B08" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B08.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B08.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B08.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B08.2" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B08.2" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B08.2" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B09" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B09" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B09" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B15" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B15" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B15" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B15.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B15.0" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B15.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B15.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B15.9" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B15.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B16" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B16" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B16" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B16.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B16.0" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B16.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B16.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B16.1" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B16.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B16.2" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B16.2" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B16.2" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B16.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B16.9" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B16.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B17" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B17" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B17" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B17.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B17.0" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B17.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B17.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B17.1" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B17.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B17.2" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B17.2" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B17.2" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B17.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B17.8" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B17.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B17.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B17.9" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B17.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B18" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B18" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B18" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B18.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B18.0" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B18.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B18.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B18.1" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B18.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B18.2" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B18.2" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B18.2" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B18.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B18.8" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B18.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B18.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B18.9" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B18.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B19" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B19" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B19" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B19.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B19.0" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B19.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B19.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B19.9" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B19.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B20" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.2" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.2" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.3" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.3" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.4" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.4" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.5" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.5" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.6" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.6" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.7" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.7" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B20.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B21" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B21" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B21" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B21.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B21.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B21.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B21.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B21.2" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B21.2" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B21.3" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B21.3" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B21.7" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B21.7" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B21.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B21.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B21.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B21.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B22" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B22" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B22" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B22.0" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="B22.0" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B22.0" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="B22.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B22.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B22.2" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B22.2" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B22.7" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B22.7" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B23" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B23" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B23" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B23.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B23.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B23.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B23.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B23.2" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B23.2" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B23.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B23.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B24" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B24" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B24" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B24.+0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B24.+0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B24.+1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B24.+1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B24.+9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B24.+9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B25" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B25" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B25" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B25.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B25.1" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="B25.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B25.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B25.9" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B25.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B26" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B26" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B26" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B27" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B27" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B27" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B27.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B27.0" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B27.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B27.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B27.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B27.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B27.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B27.8" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B27.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B27.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B27.9" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B27.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B30" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B30" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B30" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B30.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B30.9" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B30.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B33" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B33" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B33" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B33.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B33.8" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B33.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B34" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B34" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B34" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B34.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B34.8" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B34.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B34.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B34.9" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B34.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B50.0" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="B50.0" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="B50.8" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="B50.8" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="B50.9" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="B50.9" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="B51.0" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="B51.0" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="B51.8" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="B51.8" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="B51.9" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="B51.9" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="B52.0" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="B52.0" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="B52.8" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="B52.8" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="B52.9" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="B52.9" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="B53.0" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="B53.0" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="B53.1" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="B53.1" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="B53.8" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="B53.8" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="B54" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="B54" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="B55.0" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B55.1" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B55.2" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B55.9" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B56.0" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B56.1" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B56.9" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B57.0" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B57.1" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B57.2" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B57.3" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B57.4" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B57.5" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B58.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B60.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B60.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B60.80" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B60.80" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B60.88" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B60.88" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B65.0" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B65.1" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B65.2" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B65.3" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B65.8" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B65.9" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B67.0" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B67.1" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B67.2" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B67.3" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B67.4" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B67.5" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B67.6" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B67.7" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B67.8" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B67.9" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B69.0" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B69.1" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B69.8" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B69.9" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B70.0" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B70.1" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B71.0" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B71.1" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B71.8" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B71.9" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B72" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B73" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B74.0" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B74.1" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B74.2" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B74.3" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B74.4" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B74.8" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B74.9" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B75" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B76.0" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B76.1" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B76.8" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B76.9" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B78.0" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B78.1" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B78.7" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B78.9" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B80" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B82.9" target="P01BA01">
+  <data key="d1">2</data>
+</edge>
+<edge source="B83.0" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B83.1" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B83.9" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B85.0" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B85.1" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B85.2" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B85.3" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B85.4" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B86" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B87.0" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B87.1" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B87.2" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B87.3" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B87.4" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B87.8" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B87.9" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B88.0" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B88.1" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B88.2" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B88.3" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B88.8" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B88.9" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="B89" target="P01BA01">
+  <data key="d1">2</data>
+</edge>
+<edge source="B97" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B97" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B97" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B97.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B97.0" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B97.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B97.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B97.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B97.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B97.4" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B97.4" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B97.4" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B97.7" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B97.7" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B97.7" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B97.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B97.8" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B97.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B99" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B99" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B99" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B99.+0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B99.+0" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B99.+0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="B99.+1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="B99.+1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="B99.+1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="C46.7" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="C46.7" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="C46.70" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="C46.70" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="C46.70" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="C46.71" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="C46.71" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="C46.71" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="C46.72" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="C46.72" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="C46.72" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="C46.78" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="C46.78" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="C46.78" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="C46.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="C46.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="D63.8" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="D63.8" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="D68.8" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="D77" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="D77" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.4" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="F02.4" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="F02.4" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="F02.40" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.40" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.400" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.400" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.41" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.41" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.410" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.410" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.42" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.42" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.420" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.420" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.43" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.43" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.430" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.430" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.44" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.44" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.440" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.440" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="F02.8" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="G02.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="G02.0" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="G02.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="G05.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="G05.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="G05.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="G05.8" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="G63.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="G63.0" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="G63.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="G63.5" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="G73.7" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="G94.8" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="G94.8" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="H03.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="H03.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="H03.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="H13.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="H13.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="H13.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="H19.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="H19.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="H19.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="H19.2" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="H19.2" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="H19.2" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="H22.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="H22.0" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="H22.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="H32.00" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="H32.00" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="H32.00" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="H32.01" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="H32.01" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="H32.01" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="H32.08" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="H32.08" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="H32.08" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="H58.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="H58.8" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="H58.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="H62.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="H62.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="H62.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="H67.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="H67.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="H67.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="I32.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="I32.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="I32.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="I32.8" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="I39.0" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="I39.1" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="I39.2" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="I39.3" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="I41.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="I41.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="I41.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="I52.8" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="I68.2" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="J17.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="J17.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="J17.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="J17.8" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="J99.1" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="K23.80" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="K23.80" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K23.80" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="K23.81" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="K23.81" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="K23.88" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="K23.88" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K23.88" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="K77.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="K77.0" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="K77.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="K77.0" target="P01BA01">
+  <data key="d1">9</data>
+</edge>
+<edge source="K77.0" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="K77.8" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="K87.00" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="K87.00" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K87.00" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="K87.08" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="K87.08" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K87.08" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="K87.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="K87.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K87.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="K93.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="K93.8" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K93.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="K93.80" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.80" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K93.80" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.81" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.81" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K93.81" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.82" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.82" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K93.82" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.820" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.820" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K93.820" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.828" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.828" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K93.828" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.83" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.83" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K93.83" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.830" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.830" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K93.830" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.838" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.838" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K93.838" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.84" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.84" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K93.84" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.840" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.840" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K93.840" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.848" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.848" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K93.848" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.88" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="K93.88" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="K93.88" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="L56.0" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="L56.2" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="L56.3" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="L56.4" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="L56.8" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="L56.9" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="L93.0" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="L93.1" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="L93.2" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="M01.4" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="M01.4" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="M01.4" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="M01.5" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="M01.5" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="M01.5" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.0" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.0" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.00" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.00" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.01" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.01" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.02" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.02" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.03" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.03" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.04" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.04" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.05" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.05" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.06" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.06" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.07" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.07" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.08" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.08" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.09" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.09" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.10" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.10" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.11" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.11" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.12" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.12" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.13" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.13" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.14" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.14" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.15" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.15" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.16" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.16" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.17" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.17" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.18" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.18" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.19" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.19" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.2" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.2" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.20" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.20" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.21" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.21" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.22" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.22" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.23" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.23" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.24" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.24" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.25" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.25" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.26" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.26" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.27" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.27" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.28" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.28" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.29" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.29" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.30" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.30" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.31" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.31" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.32" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.32" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.33" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.33" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.34" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.34" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.35" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.35" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.36" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.36" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.37" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.37" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.38" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.38" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.39" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.39" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.8" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.8" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.80" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.80" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.81" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.81" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.82" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.82" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.83" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.83" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.84" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.84" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.85" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.85" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.86" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.86" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.87" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.87" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.88" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.88" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.89" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.89" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.9" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.9" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.90" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.90" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.91" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.91" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.92" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.92" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.93" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.93" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.94" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.94" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.95" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.95" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.96" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.96" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.97" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.97" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.98" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.98" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M05.99" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M05.99" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.0" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.0" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.00" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.00" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.01" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.01" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.02" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.02" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.03" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.03" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.04" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.04" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.05" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.05" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.06" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.06" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.07" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.07" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.08" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.08" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.09" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.09" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.9" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.9" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.90" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.90" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.91" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.91" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.92" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.92" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.93" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.93" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.94" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.94" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.95" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.95" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.96" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.96" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.97" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.97" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.98" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.98" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M06.99" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M06.99" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M08.0" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M08.0" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M08.00" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M08.00" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M08.01" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M08.01" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M08.02" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M08.02" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M08.03" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M08.03" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M08.04" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M08.04" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M08.05" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M08.05" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M08.06" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M08.06" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M08.07" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M08.07" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M08.08" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M08.08" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M08.09" target="L04AC14">
+  <data key="d1">4</data>
+</edge>
+<edge source="M08.09" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="M32.0" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="M32.1" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="M32.8" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="M32.9" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="N08.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="N08.0" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="N08.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="N08.0" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="N08.0" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="N08.5" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="N16.4" target="P01BA01">
+  <data key="d1">24</data>
+</edge>
+<edge source="N51.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="N51.0" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="N51.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="N51.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="N51.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="N51.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="N51.2" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="N51.2" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="N51.2" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="N51.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="N51.8" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="N51.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="N77.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="N77.0" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="N77.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="N77.1" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="N77.1" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="N77.1" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="N77.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="N77.8" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="N77.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="O26.4" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="O26.4" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="O26.4" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="O98.4" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="O98.4" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="O98.4" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="O98.6" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="O98.6" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="O98.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="O98.9" target="J05AP53">
+  <data key="d1">2</data>
+</edge>
+<edge source="O98.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="O98.9" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="O98.9" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="P35" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="P35" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="P35" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="R74.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="R74.0" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="R74.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="R75" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="R75" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="R75" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="Z03.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z03.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z03.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z03.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z09.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z09.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z09.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z09.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z11.6" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="Z11.6" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z11.9" target="P01BA01">
+  <data key="d1">8</data>
+</edge>
+<edge source="Z11.9" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z21" target="J05AE03">
+  <data key="d1">8</data>
+</edge>
+<edge source="Z21" target="J05AP53">
+  <data key="d1">1</data>
+</edge>
+<edge source="Z21" target="J05AR10">
+  <data key="d1">8</data>
+</edge>
+<edge source="Z22.1" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="Z22.9" target="P01BA01">
+  <data key="d1">1</data>
+</edge>
+<edge source="Z23.0" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z23.0" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z23.1" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z23.1" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z23.3" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z23.3" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z23.5" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z23.5" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z23.6" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z23.6" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z23.8" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z23.8" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z24.0" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z24.0" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z24.1" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z24.1" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z24.3" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z24.3" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z24.6" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z24.6" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z25" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z25" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z25.0" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z25.0" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z25.1" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z25.1" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z25.8" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z25.8" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z26" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z26" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z26.0" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z26.0" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z26.8" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z26.8" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z26.9" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z26.9" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z27.0" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z27.0" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z27.1" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z27.1" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z27.2" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z27.2" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z27.3" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z27.3" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z27.8" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z27.8" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z27.9" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z27.9" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z28.0" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z28.0" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z28.1" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z28.1" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z28.2" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z28.2" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z28.8" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z28.8" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z28.9" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z28.9" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z29.2" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z29.2" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z29.8" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z29.8" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z29.9" target="P01BA01">
+  <data key="d1">6</data>
+</edge>
+<edge source="Z29.9" target="P01BB51">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z51.8" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z51.8" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z51.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z51.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z71.7" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z71.7" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z71.9" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z71.9" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z83.0" target="J05AE03">
+  <data key="d1">4</data>
+</edge>
+<edge source="Z83.0" target="J05AR10">
+  <data key="d1">4</data>
+</edge>
+</graph></graphml>
