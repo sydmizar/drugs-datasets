@@ -17,8 +17,14 @@ $ pip install SQLAlchemy
 ```
 ## Running the Algorithm
 Here are the basic steps for using our algorithm :
+
 ```
-python get_full_data.py
+# Insert number 1 via command line for using PostgreSQL database
+python get_full_data.py 1
+```
+```
+# Insert number 2 via command line for using Pandas Dataframes
+python get_full_data.py 2
 ```
 Here are the basic steps for using the Jupyter Notebook :
 * Click on the Jupyter notebook called *Technical Validation.ipynb*.
