@@ -15,15 +15,16 @@ import sys
 ################################################################################
 
 def get_atc_icd_data(conn):
-    SQL_query = """select c.code, ac.code, ac.name
+    SQL_query = """select c.code, ac.code, ac.name, cngc.type
                     from commonnamegroup cng 
                     inner join commonnamegroup_indication cngi on cngi.commonnamegroupid = cng.commonnamegroupid
                     inner join indicationgroup_indication igi on igi.indicationid = cngi.indicationid
+                    inner join commonnamegroup_composition cngc on cngc.commonnamegroupid = cng.commonnamegroupid
                     inner join cim10_indicationgroup cig on cig.indicationgroupid = igi.indicationgroupid
                     inner join cim10 c on c.cim10id = cig.cim10id
                     inner join commonnamegroup_atc cnga on cnga.commonnamegroupid = cng.commonnamegroupid
                     inner join atcclass ac on ac.atcclassid = cnga.atcclassid
-                    group by c.code, ac.code, ac.name order by c.code asc
+                    group by c.code, ac.code, ac.name, cngc.type order by c.code asc
                     ;"""
     df = pd.read_sql_query(SQL_query, conn)
     df.to_csv('data_with_atc_icd_codes.csv', index = False, encoding = 'utf-8-sig')
@@ -95,6 +96,9 @@ if __name__ == "__main__":
         commonnamegroup = pd.read_csv('latam_csv/commonnamegroup.csv', encoding = 'utf-8-sig')
         commonnamegroup_indication = pd.read_csv('latam_csv/commonnamegroup_indication.csv', encoding = 'utf-8-sig')
         merged_inner = pd.merge(left=commonnamegroup, right=commonnamegroup_indication, left_on='commonnamegroupid', right_on='commonnamegroupid')
+        
+        commonnamegroup_composition = pd.read_csv('latam_csv/commonnamegroup_composition.csv', encoding = 'utf-8-sig')
+        merged_inner = pd.merge(left=merged_inner, right=commonnamegroup_composition, left_on='commonnamegroupid', right_on='commonnamegroupid')
         
         indicationgroup_indication = pd.read_csv('latam_csv/indicationgroup_indication.csv', encoding = 'utf-8-sig')
         merged_inner = pd.merge(left=merged_inner, right=indicationgroup_indication, left_on='indicationid', right_on='indicationid')
