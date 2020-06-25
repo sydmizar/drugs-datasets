@@ -5,7 +5,7 @@ Data Descriptor: Drugs, Active Pharmaceutical Ingredients, Diseases and Side Eff
 This repository contains the Python script for the data manipulation algorithm described in the paper [_"Data Descriptor: Drugs, Active Pharmaceutical Ingredients, Diseases and Side Effects databases, a resource for analysis on drugs-illness interaction"_](https://XXXX.XXX) by Irene López, César F. Reyes, Israel Reyes and Lev Guzmán.
 
 ## Requirements
-The algorithms work for version of R > 3.3 and Python >  2.7.
+The algorithms work for version of Python >  2.7.
 Other necessary packages will be added in the installation and it is important to install PostgreSQL for running *get_data_full.py* script.
 
 ## Installation
