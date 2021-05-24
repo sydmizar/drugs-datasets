@@ -1,0 +1,73 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "bipartite": 0,
+            "id": "E70.9"
+        },
+        {
+            "bipartite": 0,
+            "id": "E70.2"
+        },
+        {
+            "bipartite": 1,
+            "id": "A16AX04"
+        },
+        {
+            "bipartite": 0,
+            "id": "E70.1"
+        },
+        {
+            "bipartite": 0,
+            "id": "E70"
+        },
+        {
+            "bipartite": 0,
+            "id": "E70.0"
+        },
+        {
+            "bipartite": 1,
+            "id": "A16AX07"
+        },
+        {
+            "bipartite": 0,
+            "id": "E70.8"
+        }
+    ],
+    "links": [
+        {
+            "source": "E70.9",
+            "target": "A16AX04"
+        },
+        {
+            "source": "E70.9",
+            "target": "A16AX07"
+        },
+        {
+            "source": "E70.2",
+            "target": "A16AX04"
+        },
+        {
+            "source": "E70.2",
+            "target": "A16AX07"
+        },
+        {
+            "source": "E70.1",
+            "target": "A16AX07"
+        },
+        {
+            "source": "E70",
+            "target": "A16AX07"
+        },
+        {
+            "source": "E70.0",
+            "target": "A16AX07"
+        },
+        {
+            "source": "A16AX07",
+            "target": "E70.8"
+        }
+    ]
+}
