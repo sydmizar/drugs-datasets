@@ -2,7 +2,7 @@
 
 Data Descriptor: Drugs, Active Pharmaceutical Ingredients, Diseases and Side Effects databases, a resource for analysis on drugs-illness interaction.
 
-This repository contains the Python script for the data manipulation algorithm described in the paper [_"Drugs, Active Ingredients and Diseases database in Spanish. Augmenting the resources for analysis on drugs-illness interaction"_](https://XXXX.XXX) by Irene López, César F. Reyes, Israel Reyes, Tania J. Contreras and Lev Guzmán.
+This repository contains the Python script for the data manipulation algorithm described in the paper [_"Drugs, Active Ingredients and Diseases database in Spanish. Augmenting the resources for analysis on drugs-illness interaction"_](https://doi.org/10.3390/data6010003) by Irene López, César F. Reyes, Israel Reyes, Tania J. Contreras and Lev Guzmán.
 
 ## Requirements
 The algorithms work for version of Python >  2.7.
